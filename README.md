@@ -24,9 +24,8 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [ -] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
-`TODO://` Add the URL to your animated app walkthough `gif` in the image tag below, `YOUR_GIF_URL_HERE`. Make sure the gif actually renders and animates when viewing this README. (🚫 Remove this paragraph after after adding gif)
 
-<img src="https://photos.app.goo.gl/RdFKcALSYR7w75Ak9" width=250><br>
+<img src="https://photos.google.com/share/AF1QipNMpbXOLeEYq1sjpZo3PmffmU_fqG-FpZTYB8p-zYiZmG4peKWAgQDyzeyhnVPObA/photo/AF1QipP8qlG4WNp2mSzY2TJKqMBDxKlpV_m0tBrWZ_hI?key=ekRwN3pQUFJxQ3J5UEMybl9zN3Vib2pHM0dVNnV3" width=250><br>
 
 ### Notes
 That was not really hard, but i overthought! i was trying to instal pod before codind the app, that made me confused.
