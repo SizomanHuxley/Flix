@@ -12,9 +12,9 @@
 
 ### App Walkthrough GIF
 
-<img src="(https://giphy.com/gifs/codepath-sizomanhuxley-michelob-revol-YxNEb24lLnlUaifdoO/fullscreen)" width=250><br>
+<img src="(https://media.giphy.com/media/tla8sqiWaLY8EuqB1u/giphy-downsized-large.gif)" width=250><br>
 
-https://giphy.com/gifs/codepath-sizomanhuxley-michelob-revol-YxNEb24lLnlUaifdoO/fullscreen
+https://media.giphy.com/media/tla8sqiWaLY8EuqB1u/giphy-downsized-large.gif
 
 ### Notes
 The only is while create the collection view, i could not see any images when i rrun the app
